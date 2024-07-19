@@ -1,4 +1,7 @@
-const apiKey = 'YOUR_API_KEY';
+const searchHistory = [];
+const apiKey = '5e0ec86f86b22b1437a6c8bc3b99d95a';
+
+
 const searchForm = document.querySelector('#search-form');
 const searchInput = document.querySelector('#search-input');
 const currentWeather = document.querySelector('#current-weather');
