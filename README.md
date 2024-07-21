@@ -22,6 +22,9 @@ https://sailorvirgo.github.io/My-Weather-App/
 ```bash
 https://app.screencastify.com/v3/watch/cdRv8VheeAwgyiDhBiYK
 ```
+![Screenshot 2024-07-20 175753](https://github.com/user-attachments/assets/63db295d-6167-4e4b-ba00-023f20960be3)
+
+![Screenshot 2024-07-20 175820](https://github.com/user-attachments/assets/ee3489de-1208-4ef6-b966-a7bda9fa3b5c)
 
 
 ## Features
