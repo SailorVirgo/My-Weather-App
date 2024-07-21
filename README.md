@@ -2,6 +2,11 @@
 
 A web application that allows users to search for current weather conditions and a 5-day forecast for any city. The application leverages the OpenWeather API to fetch weather data and displays it in a user-friendly interface.
 
+## Link to the Application:
+```bash
+https://sailorvirgo.github.io/My-Weather-App/
+```
+
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
@@ -14,6 +19,10 @@ A web application that allows users to search for current weather conditions and
 
 ## Demo
 [Live Demo](#)
+```bash
+https://app.screencastify.com/v3/watch/cdRv8VheeAwgyiDhBiYK
+```
+
 
 ## Features
 - Search for current weather conditions by city name.

@@ -1,5 +1,5 @@
 const searchHistory = [];
-const apiKey = '5e0ec86f86b22b1437a6c8bc3b99d95a';
+const apiKey = '70818a33a71e8074f04a544f480f12c1';
 
 
 const searchForm = document.querySelector('#search-form');
